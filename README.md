@@ -14,7 +14,7 @@ const victor = {
 ```
 #
 
-Some stats about my Github...
+Some stats about my GitHub...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgarciadev&theme=transparent&layout=compact)](https://github.com/victorgarciadev/github-readme-stats)
 
