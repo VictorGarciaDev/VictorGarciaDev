@@ -14,6 +14,15 @@ const victor = {
 ```
 #
 
-If you want to access to my Linkedin profile click the badge below :point_down:
+Some stats about my Github...
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/victorgarciadev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgarciadev&theme=transparent&layout=compact)](https://github.com/victorgarciadev/github-readme-stats)
+
+#
+
+If you want to contact me, you can do it by clicking on the badges below :point_down:
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t692250447@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorgarciadev)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/victorgarciadev)
+
