@@ -5,10 +5,10 @@
 
 ```javascript
 const victor = {
-  work: "Full-stack developer at 46 to Shinjuku Medialab",
-  education: "Currently, doing cross-platform apps development (DAM in Spanish) at Nicolau Copernic.",
+  work: "Software engineer at FilesStudios (MGA)",
+  education: "DAM Certificate of Higher Education (HNC) at Nicolau Copernic.",
   skills: [Kotlin, Java, C#, .NET, React Native, Typescript, Angular, HTML, CSS, Javascript, MySQL],
-  challenge: "Learning React Native",
+  challenge: "I want to create a videogame with Unity",
   funFact: "Roses are Red, Violets are Blue, Unexpected '{' on line 32."
 }
 ```
